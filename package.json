@@ -1,0 +1,63 @@
+{
+  "name": "airgetlam-bot",
+  "version": "0.1.0",
+  "description": "Discord bot",
+  "main": "shard.js",
+  "scripts": {
+    "start": "node shard.js"
+  },
+  "dependencies": {
+    "@discordjs/uws": "^11.149.1",
+    "anime-scraper": "^3.1.1",
+    "bufferutil": "^4.0.1",
+    "canvas": "github:Automattic/node-canvas",
+    "canvas-constructor": "^3.2.0",
+    "cards": "^1.0.2",
+    "cleverbot.io": "^1.0.4",
+    "common-tags": "^1.8.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.5.1",
+    "discordeco.js": "^0.5.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "moment": "^2.25.3",
+    "myanimelist": "^0.1.0",
+    "myanimelists": "^1.0.2",
+    "node-superfetch": "^0.1.10",
+    "parse-ms": "^2.0.0",
+    "quick.db": "^7.1.1",
+    "random-js": "^2.1.0",
+    "numeral": "^2.0.6",
+    "random-puppy": "^1.1.0",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^2.1.2",
+    "node-opus": "^0.3.3",
+    "querystring": "^0.2.0",
+    "fs-nextra": "^0.4.7",
+    "dblapi.js": "^2.4.0",
+    "superagent": "^5.2.2",
+    "snekfetch": "^4.0.4",
+    "gif-search": "^2.0.1",
+    "body-parser": "^1.19.0",
+    "phin": "^3.4.1",
+    "express-glitch-keepalive": "^0.2.0",
+    "shitgram": "^1.4.2"
+  },
+  "author": "Victor Barpp Gomes",
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kabbah/airgetlam-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "nodejs",
+    "music",
+    "bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/Kabbah/airgetlam-bot/issues"
+  },
+  "homepage": "https://github.com/Kabbah/airgetlam-bot#readme"
+}
