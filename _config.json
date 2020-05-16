@@ -1,0 +1,11 @@
+{
+  "bot_prefix": "//",
+  "APIS_TOPGG_WEBHOOK_PORT": "3000", 
+  "APIS_TOPGG_WEBHOOK_AUTH": "khlang", 
+  "APIS_TOPGG_WEBHOOK_PATH": "https://khlang-bot.glitch.me/dblwebhook",
+  "embed_color": "RANDOM",
+  "owners_id": ["363541262730526734", "484090870472376338", "589503684657020932"], 
+  "env": {
+    "TOKEN": "Njk0MjE2Mjc2MTgwMjA1NTg4.XrynPw.gfRkoddsK89FID-opQbzMcWRibI"
+  } 
+}
