@@ -1,0 +1,22 @@
+[
+ {
+ "text": "With over 1000000 users", 
+ "type": "PLAYING" 
+}, 
+{
+ "text": "Let me help you.", 
+ "type": "LISTENING" 
+}, 
+{
+ "text": "I can do it.", 
+ "type": "WATCHING" 
+}, 
+{
+ "text": "Start where you are. Use what I have. Do what you can.", 
+ "type": "WATCHING" 
+}, 
+{
+ "text": "Music are playing Now.",
+ "type": "PLAYING" 
+ } 
+]
